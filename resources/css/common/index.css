@@ -25,12 +25,12 @@
 }
 
 * {
-    font-family: var(--font-1) !important;
+    font-family: serif !important;
 }
 
 html,
 body {
-    background-color: white !important;
+    background-color: red !important;
 }
 
 /* Navbar */
