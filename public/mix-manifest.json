@@ -1,0 +1,11 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/common.js": "/js/common.js",
+    "/js/page/home/index.js": "/js/page/home/index.js",
+    "/css/app.css": "/css/app.css",
+    "/css/common/index.css": "/css/common/index.css",
+    "/css/common/font.css": "/css/common/font.css",
+    "/css/common/color.css": "/css/common/color.css",
+    "/css/custom.css": "/css/custom.css",
+    "/css/home/index.css": "/css/home/index.css"
+}
